@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/H8WuRINimqur8ud/blue-digital-background-digital-timer-blue-numbers_rzdux3nw_thumbnail-1080_01.png);
+    background-repeat: no-repeat;
+    color:burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+h1{
+    display: inline-block;
+    margin:5px;
+    padding:10px;
+    font-size: 100px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 50px;
+    background: blanchedalmond;
+    color: black;
+    cursor: pointer;
+    outline: none;
+}
+
